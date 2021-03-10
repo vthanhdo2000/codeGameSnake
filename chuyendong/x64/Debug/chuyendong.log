@@ -1,0 +1,6 @@
+﻿  console.cpp
+  mainran.cpp
+E:\Game-Ran-San-Moi\Ran part1\chuyendong\mainran.cpp(206,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ban mau.cpp
+  Generating Code...
+  chuyendong.vcxproj -> E:\Game-Ran-San-Moi\Ran part1\x64\Debug\ran part 1.exe
